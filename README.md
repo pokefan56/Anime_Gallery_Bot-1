@@ -8,7 +8,7 @@
 A Bot which uses unofficial gogoanime and kissmanga api to search and provide anime and manga respectively to the user.  
  <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-00ead3.svg?style=flat-square&logo=python&logoColor=00ead3&color=00ead3" /> </a>
-  <a href="https://github.com/MiyukiKun/Anime_Gallery_Bot/" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=flat-square&logo=serverless&logoColor=00ead3&color=00ead3" /> </a>
+  <a href="https://github.com/nero-bc/Anime_Gallery_Bot-1/" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=flat-square&logo=serverless&logoColor=00ead3&color=00ead3" /> </a>
 </p>
 
 # Table of Content
@@ -54,7 +54,7 @@ To run this project, you will need to add the following environment variables to
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MiyukiKun/Anime_Gallery_Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nero-bc/Anime_Gallery_Bot-1)
 
 *Note that this wont work for now yet to add app.json file to the repo  
 
@@ -77,5 +77,5 @@ nice and detailed explination is given there
 
 ## Creator
 
-- [Miyuki](https://github.com/MiyukiKun/Anime_Gallery_Bot)
+- [Miyuki](https://github.com/nero-bc/Anime_Gallery_Bot-1)
 - Special thanks to [BaraniARR](https://github.com/BaraniARR/gogoanimeapi) for the base of unofficial gogoanime api
