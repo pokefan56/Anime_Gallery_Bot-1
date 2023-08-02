@@ -11,7 +11,7 @@
     ],
     "success_url": "https://t.me/Anime_Gallery_Robot",
     "website": "https://github.com/MiyukiKun",
-    "repository": "https://github.com/MiyukiKun/Anime_Gallery_Bot",
+    "repository": "https://github.com/nero-bc/Anime_Gallery_Bot-1",
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
